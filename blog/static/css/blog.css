@@ -1,4 +1,4 @@
-.page-header{
+.page-header {
     background-color: #ff9400;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
@@ -32,9 +32,16 @@ h1, h2, h3, h4 {
 }
 
 .post-form-blog textarea {
-    width: 100%;
+    width:100%;
 }
 
 .post-form-blog .btn-primary {
     float: right;
+}
+
+.top-menu, .top-menu:hover {
+    color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
 }
